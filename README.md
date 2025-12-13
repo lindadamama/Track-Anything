@@ -20,6 +20,10 @@
 </a>
 </div>
 
+<br>
+
+> **Note:** :fire: If you are interested in **human mesh generation from videos** (beyond video segmentation), please check out **[SAM-Body4D](https://github.com/gaomingqi/sam-body4d)**.
+
 ***Track-Anything*** is a flexible and interactive tool for video object tracking and segmentation. It is developed upon [Segment Anything](https://github.com/facebookresearch/segment-anything), can specify anything to track and segment via user clicks only. During tracking, users can flexibly change the objects they wanna track or correct the region of interest if there are any ambiguities. These characteristics enable ***Track-Anything*** to be suitable for: 
 - Video object tracking and segmentation with shot changes. 
 - Visualized development and data annotation for video object tracking and segmentation.
